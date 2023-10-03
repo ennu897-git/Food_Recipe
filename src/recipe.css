@@ -1,0 +1,17 @@
+
+.frame{
+    background-image: url(Images/FRBG2.jpeg);
+    background-position: center;
+    background-size: cover;
+    width: 1450px;
+    height: 1000px;
+    background-color: rgba(255, 255, 255, alpha);
+}
+h1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 20px;
+    font-size: 30px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
